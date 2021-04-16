@@ -2,15 +2,15 @@
 ![](https://travis-ci.com/azoght/voting-systems.svg?branch=master)
 ![](https://img.shields.io/badge/made%20with-python-gray&color=?color=f50505&style=for-the-badge)
 
+# Credit
+This is an edited version of azoght's repository, found here:
+https://github.com/azoght/voting-systems
 
 Simulates four vote count systems that can used with ranked ballots:
 1. Plurality/Majority
 2. Instant Runoff (IRV/RCV)
 3. Borda Count
 4. Condorcet
-
-You can learn more about these four voting systems here: [**PBS Infinite Series: Voting Systems and the Condorect Paradox**](https://www.youtube.com/watch?v=HoAnYQZrNrQ)
-![](https://image.pbs.org/video-assets/7GRiDXk-asset-mezzanine-16x9-Ju2FaRu.jpg.focalcrop.1200x630.50.10.jpg)
 
 ## How each voting system works
 
@@ -66,7 +66,7 @@ Make sure to set PYTHONPATH to where the votingsystems module is at, for example
 ### To clone:
 
 ```
-git clone https://github.com/azoght/voting-systems
+git clone https://github.com/ThorChadMerlin/Voting-Protocols
 ```
 
 __Don't forget to fork and edit the code anyway you wish!__
