@@ -2,15 +2,17 @@
 ![](https://travis-ci.com/azoght/voting-systems.svg?branch=master)
 ![](https://img.shields.io/badge/made%20with-python-gray&color=?color=f50505&style=for-the-badge)
 
-## Credit
-This is an edited version of azoght's repository, found here:
-https://github.com/azoght/voting-systems
-
 Simulates four vote count systems that can used with ranked ballots:
 1. Plurality/Majority
 2. Instant Runoff (IRV/RCV)
 3. Borda Count
 4. Condorcet
+
+## Credit
+This is an edited version of azoght's repository, found here:
+https://github.com/azoght/voting-systems
+
+
 
 ## How each voting system works
 
