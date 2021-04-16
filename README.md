@@ -2,7 +2,7 @@
 ![](https://travis-ci.com/azoght/voting-systems.svg?branch=master)
 ![](https://img.shields.io/badge/made%20with-python-gray&color=?color=f50505&style=for-the-badge)
 
-# Credit
+## Credit
 This is an edited version of azoght's repository, found here:
 https://github.com/azoght/voting-systems
 
